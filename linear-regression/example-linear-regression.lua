@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------
--- example-linear-regression.lua
+-- example-linear-regression.luaee
 -- 
 -- This script provides a very simple step-by-step example of
 -- linear regression, using Torch7's neural network (nn) package,
